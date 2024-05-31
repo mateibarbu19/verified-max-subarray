@@ -3,8 +3,9 @@
 This project was a homework assignament for the "Software Verification and
 Validation" course at POLITEHNICA Univeristy of Bucharest.
 
-The implementation was based off of the solution presented in "Introduction
-to Algorithms" CLRS.
+The implementation for the **maximum sum subarray problem**, also known as
+the **maximum segment sum problem** was based off of the solution presented
+in "Introduction to Algorithms" CLRS.
 
 ## Usage
 
